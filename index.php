@@ -2,7 +2,7 @@
 <html dir="ltr" lang="zh-TW" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
 <head>
     <meta charset="UTF-8">
-    <meta name="keywords" content="Git, 版本控制，甘特圖，燃盡圖，專案管理，subversion,貝格樂">
+    <meta name="keywords" content="貝格樂">
     <meta name="description" content="6.解決合併的衝突【教學1 使用分支】  | 歡迎來到超級簡單的Git入門指南，讓我們一起學習如何使用Git版本控制系統吧！">
     <title>6.解決合併的衝突【教學1 使用分支】  | 連猴子都能懂的Git入門指南  | 貝格樂（Backlog）</title>
     <meta property="og:title" content="6.解決合併的衝突【教學1 使用分支】  | 連猴子都能懂的Git入門指南  | 貝格樂（Backlog）">
