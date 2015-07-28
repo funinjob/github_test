@@ -13,13 +13,9 @@
     <meta property="fb:app_id" content="417292271624387">
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" type="text/css" media="all" href="./../style.css">
-    <!--[if lt IE 9]>
-    <script src="./../js/lib/html5.js" type="text/javascript"></script>
-    <![endif]-->
 </head>
 <body>
 
-<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-C9J9"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
