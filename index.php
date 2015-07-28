@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if IE 7]> <html class="Ie7 Ie" dir="ltr" lang="zh-TW"> <![endif]-->
-<!--[if IE 8]> <html class="Ie8 Ie" dir="ltr" lang="zh-TW"> <![endif]-->
-<!--[if IE 9]> <html class="Ie9 Ie" dir="ltr" lang="zh-TW"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--><html dir="ltr" lang="zh-TW" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<html dir="ltr" lang="zh-TW" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
 <head>
     <meta charset="UTF-8">
     <meta name="keywords" content="Git, 版本控制，甘特圖，燃盡圖，專案管理，subversion,貝格樂">
